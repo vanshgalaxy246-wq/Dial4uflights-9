@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dial4uflights-9-drab.vercel.app/sitemap.xml
